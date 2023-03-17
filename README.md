@@ -14,7 +14,7 @@
           <li _msttexthash="720564" _msthash="360">Melhorando o CSS</li>
           <li _msttexthash="1029197" _msthash="361">Selecionando qualquer coisa</li>
           <li _msttexthash="1365130" _msthash="362">Opacidade e sombra</li>
-          <li _msttexthash="1365130" _msthash="362">Design responsive</li>
+          <li _msttexthash="1365130" _msthash="363">Design responsive</li>
 </ul>
 </article>
           </div>
